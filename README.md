@@ -1,2 +1,2 @@
 # Self-driving-car
-Self driving car using deep learning.
+Working on self driving car project using deep learning technology.
